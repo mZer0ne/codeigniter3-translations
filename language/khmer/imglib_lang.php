@@ -28,3 +28,5 @@ $lang['imglib_invalid_path']                = 'ទីតាំងទៅកាន
 $lang['imglib_copy_failed']                 = 'ថតចម្លងរូបភាពបានបរាជ័យ។';
 $lang['imglib_missing_font']                = 'កមិនឃើញពុម្ពអក្សរដែលត្រូវប្រើនោះបានទេ។';
 $lang['imglib_save_failed']                 = 'មិនអាចរក្សាទុករូបភាព។ សូមបញ្ជាក់ថារូបភាពនិងថតឯកសារគឺអាចកែតម្រូវបាន។';
+$lang['form_validation_error_message_not_set']	= 'Unable to access an error message corresponding to your field name {field}.';// to translate
+$lang['form_validation_in_list']		= 'The {field} field must be one of: {param}.';// to translate
